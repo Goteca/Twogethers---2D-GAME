@@ -22,7 +22,7 @@
 Oyunun mekaniklerini ve atmosferini keşfetmek için aşağıdaki görsele tıklayarak videoyu izleyebilirsiniz:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=w0vQtI8U5dM" target="blank">
+  <a href="[https://www.youtube.com/watch?v=w0vQtI8U5dM](https://youtu.be/w0vQtI8U5dM)" target="blank">
     <img src="https://img.youtube.com/vi/w0vQtI8U5dM/maxresdefault.jpg" alt="Twogethers Gameplay" width="600" style="border-radius: 10px;" />
   </a>
 </p>
